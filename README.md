@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="assets/header_1.png" />
+</p>
+
 # 💫 About Me:
 - 🚀 Building intelligent AI systems and modern full-stack digital experiences  <br>- 🤝 Looking to collaborate with developers, researchers, designers, and startup builders  <br>- 🧠 Interested in AI/ML, research, product engineering, and human-centered design  <br>- 🌱 Currently learning LLMs, AI agents, scalable architectures, and cloud ecosystems  <br>- 💬 Ask me about React, Django, AI tools, UI/UX, branding, and creative development  <br>- ⚡ I love turning ambitious ideas into real-world products through code + design + research  
 
